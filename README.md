@@ -1,7 +1,7 @@
 <img src="https://raw.github.com/cfregly/fluxcapacitor/master/docs/images/fluxcapacitor-logo.png">
 
-** IF YOU'RE LOOKING FOR THE SPARK-BASED fluxcapacitor/pipeline ADVANCED ANALYTICS REPO, **
-** YOU CAN FIND IT HERE:   https://github.com/fluxcapacitor/wiki **
+**IF YOU'RE LOOKING FOR THE SPARK-BASED, ADVANCED ANALYTICS FLUXCAPACITOR REPO,**
+**YOU CAN FIND IT HERE:   https://github.com/fluxcapacitor/wiki**
 
 Overview
 ========
