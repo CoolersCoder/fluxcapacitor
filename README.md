@@ -1,5 +1,8 @@
 <img src="https://raw.github.com/cfregly/fluxcapacitor/master/docs/images/fluxcapacitor-logo.png">
 
+** IF YOU'RE LOOKING FOR THE SPARK-BASED fluxcapacitor/pipeline ADVANCED ANALYTICS REPO, **
+** YOU CAN FIND IT HERE:   https://github.com/fluxcapacitor/wiki **
+
 Overview
 ========
 Flux Capacitor is a Java-based, cloud-native, reference architecture using many Netflix Open Source projects including the following:
