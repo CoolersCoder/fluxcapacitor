@@ -1,6 +1,6 @@
-<img src="https://raw.github.com/cfregly/fluxcapacitor/master/docs/images/fluxcapacitor-logo.png">
+## THIS REPO IS DEPRECATED!!  GO HERE, INSTEAD:  https://github.com/fluxcapacitor/wiki
 
-**THIS REPO IS DEPRECATED!!  GO HERE, INSTEAD:  https://github.com/fluxcapacitor/wiki**
+<img src="https://raw.github.com/cfregly/fluxcapacitor/master/docs/images/fluxcapacitor-logo.png">
 
 Overview
 ========
